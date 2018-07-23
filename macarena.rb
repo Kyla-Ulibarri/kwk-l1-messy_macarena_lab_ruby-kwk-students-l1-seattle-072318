@@ -34,5 +34,4 @@ end
 
 puts macarena
 puts "Turn to the left"
-
 puts macarena
